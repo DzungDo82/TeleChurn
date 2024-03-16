@@ -1,5 +1,5 @@
 # Customer Churn Prediction in Telecom
-### Tool used: Python
+### Tool used: Python (Machine Learning)
 
 ## 1. The purpose of the project is to predict churning customers.
 
